@@ -1,0 +1,9 @@
+python-telegram-bot>=20,<22
+openai==0.28.1
+moviepy==1.0.3
+elevenlabslib
+pytesseract
+Pillow
+PyMuPDF
+python-docx
+python-dotenv
