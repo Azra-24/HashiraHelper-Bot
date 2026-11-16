@@ -1,5 +1,5 @@
 
-# HashiraHelper-Bot: At Your Service
+ HashiraHelper-Bot: At Your Service
 
 HashiraHelper-Bot is an anime-themed AI-powered Telegram voice chatbot developed using Python. It provides interactive conversations, voice-based communication, AI image generation, and document processing capabilities.
 
